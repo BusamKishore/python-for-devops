@@ -12,3 +12,4 @@ print(sub)
 #Multiplication
 mul=a*b
 print(mul)
+
